@@ -1,0 +1,75 @@
+.sebelum {
+  margin-top: 50px;
+  margin-bottom: -30px;
+  font-size: 25px;
+}
+
+.sebelum-struk {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+.judul-menu {
+  font-size: 35px;
+  color: #5b625a;
+  font-weight: 350;
+  font-style: normal;
+}
+
+.harga {
+  font-size: 15px;
+  color: #444743;
+  font-weight: 350;
+  font-style: italic;
+}
+
+.atur-menu {
+  width: 100%;
+  border: 0px solid black;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px rgba(105, 105, 105, 0.548);
+
+}
+
+.pinggiran {
+  border-right: 5px solid;
+  border-right-color: green;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 20px;
+}
+
+.box-menu {
+  margin-bottom: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #e7edf1;
+  padding: 20px;
+  border: 2px solid #93a38b;
+  border-radius: 10px;
+  box-shadow: 10px 7px 10px rgb(29 60 28 / 73%);
+}
+
+.box-struk {
+  margin-bottom: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #e7edf1;
+  padding: 20px;
+  border-right: 8px solid #93a38b;
+  border-left: 8px solid #93a38b;
+  border-radius: 10px;
+  box-shadow: 10px 7px 10px rgb(29 60 28 / 73%);
+}
+
+.pilih-menu {
+  margin-top: 50%;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.agak-tebal {
+  border: 2px solid black;
+  margin-bottom: 20px;
+}
